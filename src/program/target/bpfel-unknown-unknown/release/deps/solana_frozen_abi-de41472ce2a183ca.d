@@ -1,0 +1,10 @@
+/home/vladimir/Documents/Rust/solana/hello-solana/src/program/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-de41472ce2a183ca.rmeta: /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/lib.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/abi_digester.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/abi_example.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/hash.rs
+
+/home/vladimir/Documents/Rust/solana/hello-solana/src/program/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-de41472ce2a183ca.rlib: /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/lib.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/abi_digester.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/abi_example.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/hash.rs
+
+/home/vladimir/Documents/Rust/solana/hello-solana/src/program/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-de41472ce2a183ca.d: /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/lib.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/abi_digester.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/abi_example.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/hash.rs
+
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/lib.rs:
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/abi_digester.rs:
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/abi_example.rs:
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.11.4/src/hash.rs:

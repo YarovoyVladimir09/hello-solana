@@ -1,0 +1,12 @@
+/home/vladimir/Documents/Rust/solana/hello-solana/src/program/target/bpfel-unknown-unknown/release/deps/blake3-9a90a56ccee9a769.rmeta: /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/home/vladimir/Documents/Rust/solana/hello-solana/src/program/target/bpfel-unknown-unknown/release/deps/libblake3-9a90a56ccee9a769.rlib: /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/home/vladimir/Documents/Rust/solana/hello-solana/src/program/target/bpfel-unknown-unknown/release/deps/blake3-9a90a56ccee9a769.d: /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs:
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs:
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs:
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs:
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs:
+/home/vladimir/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs:
